@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Black Screen Overlay</string>
+    <string name="app_title_line1">Black Screen</string>
+    <string name="app_title_line2">Overlay</string>
+    <string name="splash_tagline">Save Battery. Stay Focused.</string>
+
+    <!-- Onboarding 01 -->
+    <string name="onboarding1_title_part1">Play Videos\nwith </string>
+    <string name="onboarding1_title_highlight">Screen Off</string>
+    <string name="onboarding1_desc">Enjoy audio &amp; keep\nyour screen black.</string>
+
+    <!-- Onboarding 02 -->
+    <string name="onboarding2_title_part1">AMOLED\n</string>
+    <string name="onboarding2_title_highlight">Battery Saver</string>
+    <string name="onboarding2_desc">Save more battery\nwith pure black overlay.</string>
+
+    <!-- Onboarding 03 -->
+    <string name="onboarding3_title_part1">Quick Floating\n</string>
+    <string name="onboarding3_title_highlight">Button</string>
+    <string name="onboarding3_desc">Control easily\nwith one tap.</string>
+
+    <!-- Onboarding Buttons -->
+    <string name="action_skip">Skip</string>
+    <string name="action_next">Next →</string>
+    <string name="action_get_started">Get Started</string>
+
+    <!-- Home Dashboard -->
+    <string name="activate_black_screen">Activate\nBlack Screen</string>
+    <string name="shortcut_floating_button">Floating\nButton</string>
+    <string name="shortcut_aod">AOD</string>
+    <string name="shortcut_quick_tile">Quick\nTile</string>
+    <string name="battery_saved_label">Battery Saved</string>
+    <string name="battery_saved_default">12%</string>
+    <string name="promo_save_battery">Save Battery, Go Further!</string>
+
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="setting_floating_button_title">Floating Button</string>
+    <string name="setting_floating_button_sub">Show floating control button</string>
+    <string name="setting_overlay_opacity_title">Overlay Opacity</string>
+    <string name="setting_overlay_opacity_sub">Set black overlay opacity</string>
+    <string name="setting_aod_title">Always-On Display</string>
+    <string name="setting_aod_sub">Show clock on black screen</string>
+    <string name="setting_volume_gesture_title">Volume Gesture</string>
+    <string name="setting_volume_gesture_sub">Use volume keys to toggle</string>
+    <string name="setting_peep_protection_title">Peep Protection</string>
+    <string name="setting_peep_protection_sub">Prevent accidental exits</string>
+    <string name="setting_biometric_lock_title">Biometric Lock</string>
+    <string name="setting_biometric_lock_sub">Use fingerprint or face lock</string>
+
+    <!-- Active Black Screen Overlay -->
+    <string name="tap_to_unlock">Tap to unlock</string>
+
+    <!-- AOD Customization -->
+    <string name="aod_customization_title">AOD Customization</string>
+    <string name="clock_style_label">Clock Style</string>
+    <string name="clock_style_digital">Digital</string>
+    <string name="clock_style_analog">Analog</string>
+    <string name="option_show_date">Show Date</string>
+    <string name="option_show_battery">Show Battery</string>
+    <string name="preview_time_default">09:41</string>
+    <string name="preview_date_default">Mon, Nov 3</string>
+    <string name="preview_battery_default">80%</string>
+    <string name="action_apply">Apply</string>
+    <string name="qs_tile_label">Black Screen</string>
+</resources>

@@ -1,0 +1,6 @@
+{
+  "name": "Black Screen Overlay",
+  "description": "AMOLED battery saver and black screen overlay with floating controls and customizable Always-On Display.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
